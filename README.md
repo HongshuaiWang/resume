@@ -19,11 +19,11 @@
 
 ###### PC端
 
-![](https://github.com/HongshuaiWang/resume/blob/master/static/pc.png)  
+<img src="https://github.com/HongshuaiWang/resume/blob/master/static/pc.png" alt="PC端简历样式" width="500px">
 
 ###### 手机端（iPhone 6s）
 
-![](https://github.com/HongshuaiWang/resume/blob/master/static/iphone.png) 
+<img src="https://github.com/HongshuaiWang/resume/blob/master/static/iphone.png" alt="手机简历样式" width="200px">
 
 #### 打印方法
 
