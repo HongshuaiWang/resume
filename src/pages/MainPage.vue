@@ -9,6 +9,7 @@
     <el-aside class="resume-aside" width="">
       <myself/>
     </el-aside>
+    <a class="pdf-resume-download" href="/static/简历_王洪帅.pdf"><el-button type="primary" icon="el-icon-download">PDF简历</el-button></a>
   </el-container>
 </template>
 
@@ -63,6 +64,12 @@ body {
 .resume-main {
 	background-color: white;
   width: 70%;
+}
+
+.pdf-resume-download {
+  position: fixed;
+  bottom: 5px;
+  right: 5px;
 }
 
 @media screen and (max-width: 1200px) {
