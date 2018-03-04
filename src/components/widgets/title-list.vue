@@ -8,7 +8,7 @@
         <div>{{ itemTitle }}</div>
       </el-col>
     </el-row>
-    <el-row class="item-content" v-for="content in itemContent" :key="content">
+    <el-row class="item-content" v-for="content in itemContent" :key="content.key">
       <div v-if="content.key" class="item-content-list">
         <el-col :xs="7" :sm="6" :md="5" :lg="4" :xl="2">
           <div>{{ content.key }}</div>

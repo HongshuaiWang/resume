@@ -4,7 +4,7 @@
       <h2 class="section-title">{{ title }}</h2>
     </div>
     <div class="section-contont">
-      <div v-if="cardType==='title-list'" v-for="item in items" :key="item">
+      <div v-if="cardType==='title-list'" v-for="item in items" :key="item.title">
         <title-list :daterange="item.daterange" :itemTitle="item.title" :itemContent="item.  content" class="items" :class="{ 'multi-title-items': items.indexOf(item) !== items.length - 1 }"/>
       </div>
       <ul v-if="cardType==='unordered-list'" >
