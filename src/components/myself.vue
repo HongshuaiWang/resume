@@ -2,7 +2,7 @@
   <el-container class="myself-container">
     <el-main class="myself-main">
       <div class="myself myself-name">
-        <div class="avatar"><img src="@/assets/avatar.png"/></div>
+        <div class="avatar"><img src="@/assets/avatar.png" alt="照片头像" /></div>
         <h2>王洪帅</h2>
         <h3>Web前端开发工程师</h3>
       </div>
