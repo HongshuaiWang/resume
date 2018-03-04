@@ -1,6 +1,6 @@
 
 ## 简历（响应式web版）
-> 网页版简历 
+> 网页版简历 (https://hongshuaiwang.github.io/resume-online/)
 
 由于自身设计能力有限，该项目的项目源自[@ ToadWoo](http://resume.toadw.cn/) 的简历的启发
 
