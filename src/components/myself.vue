@@ -34,6 +34,16 @@
         </el-row>
         <el-row class="myself-info base-info">
           <el-col>
+            <a href="https://hongshuaiwang.github.io/resume-online/" target="_blank">hongshuaiwang.github.io/resume-online/</a>
+          </el-col>
+        </el-row>
+        <el-row class="myself-info base-info">
+          <el-col>
+            <a href="https://github.com/HongshuaiWang" target="_blank">github.com/HongshuaiWang</a>
+          </el-col>
+        </el-row>
+        <el-row class="myself-info base-info">
+          <el-col>
             <a href="mailto:hongshuai_wang@qq.com" target="_blank"><i class="el-icon-message">&nbsp;&nbsp;hongshuai_wang@qq.com</i></a>
           </el-col>
         </el-row>
@@ -133,10 +143,19 @@
   display: block;
   margin-top: 10px;
   color: #333;
+  text-decoration: none;
+}
+
+.myself-info a:visited {
+  color: #333;
 }
 
 .myself-info a:hover {
   color: #999;
+}
+
+.myself-info a:active {
+  color: #333;
 }
 
 </style>
