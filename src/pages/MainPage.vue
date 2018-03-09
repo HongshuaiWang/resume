@@ -151,6 +151,10 @@ body {
   .item-content .el-col:last-child {
     width: 85%;
   }
+  
+  .pdf-resume-download {
+    display: none;
+  }
 
 }
 </style>
