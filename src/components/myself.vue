@@ -29,7 +29,7 @@
         </el-row>
         <el-row class="myself-info base-info">
           <el-col>
-            <div>当前居住地址：山东 · 青岛</div>
+            <div>当前居住地址：北京</div>
           </el-col>
         </el-row>
         <el-row class="myself-info base-info">
