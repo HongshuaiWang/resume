@@ -24,7 +24,7 @@
         </el-row>
         <el-row class="myself-info base-info">
           <el-col>
-            <div>期望工作地点：广东 · 深圳</div>
+            <div>期望工作地点：北京</div>
           </el-col>
         </el-row>
         <el-row class="myself-info base-info">
